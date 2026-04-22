@@ -71,10 +71,10 @@ export default function Contact() {
             className="w-full bg-bg-card border border-border-color rounded-lg px-4 py-3 text-text-secondary focus:outline-none focus:border-accent-primary transition-colors"
           >
             <option value="">Motiu del contacte</option>
-            <option value="manteniment">Manteniment d'edificis</option>
-            <option value="electricitat">Instal·lació elèctrica</option>
-            <option value="tecnologia">Tecnologia / App / Automatització</option>
-            <option value="altres">Altres</option>
+            <option value="Manteniment d'edificis">Manteniment d'edificis</option>
+            <option value="Instal·lació elèctrica">Instal·lació elèctrica</option>
+            <option value="Tecnologia / App / Automatització">Tecnologia / App / Automatització</option>
+            <option value="Altres">Altres</option>
           </select>
 
           <textarea
