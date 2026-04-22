@@ -81,7 +81,7 @@ export default function Hero() {
               href="#contacte"
               className="px-8 py-3 border border-accent-primary text-accent-primary font-grotesk font-medium rounded-lg hover:bg-accent-primary/10 transition-colors"
             >
-              Parlem
+              Escriu-me
             </a>
           </div>
         </motion.div>

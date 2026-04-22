@@ -38,7 +38,7 @@ export default function Contact() {
     <section id="contacte" className="py-24 px-6 bg-bg-primary">
       <div className="max-w-3xl mx-auto">
         <SectionTitle
-          title="Parlem"
+          title="Escriu-me"
           subtitle="Si tens un problema concret, t'escolto. Si necessites algú que sàpiga fer coses, estic aquí."
           accent="primary"
         />
