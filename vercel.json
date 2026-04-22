@@ -1,5 +1,6 @@
 {
   "buildCommand": "cd de-la-terra-al-codi/de-la-terra-al-codi/web-nextjs && npm install && npm run build",
   "outputDirectory": "de-la-terra-al-codi/de-la-terra-al-codi/web-nextjs/.next",
-  "installCommand": "cd de-la-terra-al-codi/de-la-terra-al-codi/web-nextjs && npm install"
+  "installCommand": "npm install",
+  "framework": "nextjs"
 }

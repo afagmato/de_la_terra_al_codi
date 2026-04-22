@@ -1,0 +1,12 @@
+{
+  "name": "de-la-terra-al-codi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "next": "14.2.5"
+  },
+  "scripts": {
+    "build": "cd de-la-terra-al-codi/de-la-terra-al-codi/web-nextjs && npm install && npm run build",
+    "dev": "cd de-la-terra-al-codi/de-la-terra-al-codi/web-nextjs && npm run dev"
+  }
+}
