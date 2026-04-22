@@ -3,10 +3,10 @@ export const owner = {
   location: "Esparreguera, Barcelona",
   headline: "Polímata Pràctic · De la Terra al Codi",
   subheadline: "Gestió, Tecnologia i Serveis per a Pimes",
-  email: "YOUR_EMAIL",
-  github: "YOUR_GITHUB_URL",
-  linkedin: "YOUR_LINKEDIN_URL",
-  web: "YOUR_WEB_URL",
+  email: "arsfontrodona@gmail.com",
+  github: "https://github.com/afagmato",
+  linkedin: "https://www.linkedin.com/in/ar%C3%A7-fontrodona-3b7a3b39/",
+  web: "https://arsfontrodona.vercel.app",
 }
 
 export const typewriterPhrases = [
